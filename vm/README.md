@@ -1,6 +1,6 @@
 # Terraform on GCP
 
-## What does this role do?
+## What does it do?
 
 Create virtual machines on cloud GCP (Google Cloud Plataform), with a shared vpc and some more features:
 
